@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="../Database1/Database1.sqlproj" Id="c440d899-19ab-48a4-81f3-7e11e4eafadc">
+    <Build />
+    <Deploy />
+  </Project>
   <Project Path="PlatformaKursy.csproj" />
 </Solution>
